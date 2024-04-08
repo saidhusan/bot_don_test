@@ -1,0 +1,1 @@
+web: python umma_bot/manage.py runserver 0.0.0.0:5000

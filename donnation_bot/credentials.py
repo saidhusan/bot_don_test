@@ -1,0 +1,2 @@
+TOKEN = '6771329905:AAGnFWSq00IvyexT75PtUD7HobW13-JV5xQ'
+TELEGRAM_API_URL = f'https://api.telegram.org/bot{TOKEN}/'
